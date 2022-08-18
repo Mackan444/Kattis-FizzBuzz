@@ -1,0 +1,2 @@
+# Kattis-FizzBuzz
+Fizzbuzz
